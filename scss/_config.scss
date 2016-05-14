@@ -1,0 +1,19 @@
+//  Colours
+$white: #fff;
+$blue: #fff;
+// $backgroundColor: #FFF;
+$backgroundColor: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(208,208,208,1) 100%);
+
+//  Banner size
+$width: 300px;
+$height: 250px;
+
+html {
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: none;
+}
